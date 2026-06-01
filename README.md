@@ -255,8 +255,7 @@ print(me.motto())
 | Degree | Institution | Year | Score |
 |:-------|:------------|:----:|:-----:|
 | B.E. Electronics & Communication Engineering | Dhanalakshmi College of Engineering, Chennai | 2021 – 2025 | CGPA: 7.66 |
-| HSC (Higher Secondary) | Velankanni Matriculation Higher Secondary School
- | 2020 - 2021 | 81.99% |
+| HSC (Higher Secondary) | Velankanni Matriculation Higher Secondary School | 2020 - 2021 | 81.99% |
 | SSLC | Velankanni Matriculation Higher Secondary School | 2018 - 2019 | 77.8% |
 
 </div>
