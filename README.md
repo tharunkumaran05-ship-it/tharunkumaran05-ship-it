@@ -148,11 +148,17 @@ print(me.motto())
 
 ---
 
-## 🏆 Trophy Wall
+## 🎯 Quick Stats
 
 <div align="center">
 
-![](https://github-profile-trophy.vercel.app/?username=tharunkumaran05-ship-it&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&margin-h=4)
+| 📦 Repos | 🌟 Focus Area | 📍 Location | 🎓 Graduated |
+|:---:|:---:|:---:|:---:|
+| 9 | AWS & DevOps | Chennai, India | 2025 |
+
+| 🔧 Core Tools | ☁️ Cloud | 🐳 Containers | 🔄 CI/CD |
+|:---:|:---:|:---:|:---:|
+| Terraform · Bash · Git | AWS · VPC · IAM · EC2 | Docker · Compose | Jenkins · GitHub Actions |
 
 </div>
 
