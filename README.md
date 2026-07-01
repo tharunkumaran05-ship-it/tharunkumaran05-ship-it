@@ -91,9 +91,9 @@ A serverless cost-governance tool catching wasted AWS spend automatically — mo
 - Runs at **under $0.05/month**
 
 🔗 [View Repository](https://github.com/tharunkumaran11/aws-cost-monitoring-platform)
-
-
 <details>
+
+<details>  
 <summary><strong style="font-size:1.25em">🔹 4. AWS DevOps Monitoring Project — Multi-Server Observability (click to expand)</strong></summary>
 <br>
 
