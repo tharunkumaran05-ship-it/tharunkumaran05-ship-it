@@ -86,7 +86,8 @@ A serverless cost-governance tool catching wasted AWS spend automatically — mo
 
 ---
 
-### 🔹 4. AWS DevOps Monitoring Project — Multi-Server Observability
+<details open>
+<summary>🔹 4. AWS DevOps Monitoring Project — Multi-Server Observability (click to expand)</summary>
 <br>
 
 ![Jenkins](https://img.shields.io/badge/Jenkins-CI-D24939?style=flat-square&logo=jenkins) ![Prometheus](https://img.shields.io/badge/Prometheus-Metrics-E6522C?style=flat-square&logo=prometheus) ![Grafana](https://img.shields.io/badge/Grafana-Dashboards-F46800?style=flat-square&logo=grafana)
@@ -156,16 +157,64 @@ Multi-service e-commerce app fully containerized for portability.
 
 ---
 
-### 📊 GitHub Stats
+### ⚡ Career Highlights
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tharunkumaran11&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tharunkumaran11&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165">
-</p>
+> 🧩 Designed and shipped a full **GitOps delivery pipeline** — GitHub Actions → Docker → Argo CD → Kubernetes — with **zero manual deployment steps**.
+>
+> ☁️ Deployed a fully **serverless Kubernetes workload** on Amazon EKS with Fargate, IRSA, and ALB Ingress across a 3-AZ, 6-subnet VPC.
+>
+> 💰 Built a self-funded **AWS FinOps tool** running automated cost-optimization scans for **under $0.05/month**.
+>
+> 📦 Published **8+ public cloud & DevOps projects** demonstrating AWS, Kubernetes, Terraform, GitHub Actions, Docker, and serverless architectures.
+>
+> 🔄 Fast learner, comfortable working independently or collaboratively in fast-paced, Agile environments.
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tharunkumaran11&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages">
-</p>
+---
+
+### 🧠 Skill Matrix
+
+<table align="center">
+<tr>
+<td valign="top" width="50%">
+
+**☁️ Cloud & AWS**
+`EC2` `S3` `VPC` `IAM` `RDS` `Lambda` `EKS` `Fargate` `ALB`
+`Auto Scaling` `CloudWatch` `SNS` `SQS` `EventBridge`
+`Cost Explorer` `CloudFront` `Route 53`
+
+**⚙️ DevOps & CI/CD**
+`GitHub Actions` `Jenkins` `Docker` `Git` `Argo CD (GitOps)`
+`Agile/Scrum` `CI/CD Pipeline Design` `Deployment Automation`
+
+</td>
+<td valign="top" width="50%">
+
+**🚢 Kubernetes & Containers**
+`Kubernetes` `Helm` `EKS` `Fargate` `Docker Compose`
+`IRSA` `Ingress (ALB Controller)`
+
+**📐 Infrastructure as Code**
+`Terraform (AWS & K8s Providers)` `Remote State (S3 + DynamoDB)`
+
+**📡 Monitoring & Networking**
+`Prometheus` `Grafana` `CloudWatch Logs` `SRE Fundamentals`
+`TCP/IP` `DNS` `Security Groups` `Load Balancing`
+
+</td>
+</tr>
+</table>
+
+---
+
+### 🧭 About Me
+
+<table align="center">
+<tr><td>🎓</td><td><b>Education</b></td><td>B.E. Electronics and Communication Engineering — Dhanalakshmi College of Engineering, Chennai (2021 – 2025) · CGPA 7.66</td></tr>
+<tr><td>📍</td><td><b>Location</b></td><td>Chennai, India</td></tr>
+<tr><td>💼</td><td><b>Role Target</b></td><td>Cloud Engineer / DevOps Engineer / SRE</td></tr>
+<tr><td>🌱</td><td><b>Currently</b></td><td>Building production-style AWS + Kubernetes projects and sharpening GitOps workflows</td></tr>
+<tr><td>🤝</td><td><b>Open To</b></td><td>Relocation & remote opportunities</td></tr>
+</table>
 
 ---
 
