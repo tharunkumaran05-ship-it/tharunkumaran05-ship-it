@@ -86,7 +86,7 @@ A serverless cost-governance tool catching wasted AWS spend automatically — mo
 
 ---
 
-<details>
+<details open>
 <summary>🔹 4. AWS DevOps Monitoring Project — Multi-Server Observability (click to expand)</summary>
 <br>
 
