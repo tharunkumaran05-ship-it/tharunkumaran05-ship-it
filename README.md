@@ -1,5 +1,10 @@
-<h1 align="center">Hi 👋, I'm Tharun Kumaran M</h1>
-<h3 align="center">AWS Cloud Engineer (Fresher) | DevOps | Kubernetes | GitOps | Serverless | IaC</h3>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Tharun%20Kumaran%20M&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AWS%20Cloud%20%26%20DevOps%20Engineer&descAlignY=58&descSize=18" width="100%"/>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=80&lines=AWS+%7C+Kubernetes+%7C+GitOps+%7C+Terraform;Building+production-style+cloud+infrastructure;Not+tutorials+%E2%80%94+real%2C+deployed+systems." alt="Typing SVG" />
+</p>
 
 <p align="center">
   <a href="https://linkedin.com/in/tharunkumaran11"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
@@ -8,31 +13,34 @@
 </p>
 
 <p align="center">
-  <em>I build production-style cloud infrastructure — not tutorials. Below are 8 hands-on projects spanning Kubernetes, GitOps, IaC, serverless, and FinOps.</em>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2C5364,100:0F2027&height=3&section=header"/>
 </p>
 
 ---
 
 ### 🛠️ Tech Stack
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![OCI](https://img.shields.io/badge/Oracle%20Cloud-F80000?style=flat-square&logo=oracle&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![Helm](https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
-![GitHubActions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
-![ArgoCD](https://img.shields.io/badge/Argo_CD-EF7B4D?style=flat-square&logo=argo&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,githubactions,jenkins,prometheus,grafana,python,go,linux,bash&theme=dark&perline=6" alt="tech stack icons"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Argo_CD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Oracle%20Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,100:2C5364&height=2&section=header"/>
+</p>
 
 ---
 
-### 📌 Project Portfolio — 8 Projects
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:203A43,100:2C5364&height=90&section=header&text=Project%20Portfolio&fontSize=30&fontColor=ffffff&animation=twinkling&fontAlignY=60" width="100%"/>
+</p>
+
+### 📌 8 Hands-On Projects
 
 | # | Project | Focus Area | Key Tech |
 |---|---------|-----------|----------|
@@ -157,21 +165,23 @@ Multi-service e-commerce app fully containerized for portability.
 
 ---
 
-### ⚡ Career Highlights
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:203A43,100:2C5364&height=90&section=header&text=Career%20Highlights&fontSize=30&fontColor=ffffff&animation=twinkling&fontAlignY=60" width="100%"/>
+</p>
 
-> 🧩 Designed and shipped a full **GitOps delivery pipeline** — GitHub Actions → Docker → Argo CD → Kubernetes — with **zero manual deployment steps**.
->
-> ☁️ Deployed a fully **serverless Kubernetes workload** on Amazon EKS with Fargate, IRSA, and ALB Ingress across a 3-AZ, 6-subnet VPC.
->
-> 💰 Built a self-funded **AWS FinOps tool** running automated cost-optimization scans for **under $0.05/month**.
->
-> 📦 Published **8+ public cloud & DevOps projects** demonstrating AWS, Kubernetes, Terraform, GitHub Actions, Docker, and serverless architectures.
->
-> 🔄 Fast learner, comfortable working independently or collaboratively in fast-paced, Agile environments.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=3200&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=780&height=140&lines=GitOps+pipeline%3A+GitHub+Actions+%E2%86%92+Docker+%E2%86%92+Argo+CD+%E2%86%92+K8s;Serverless+EKS+workload+on+Fargate+with+IRSA+%2B+ALB+Ingress;AWS+FinOps+tool+running+cost+scans+for+under+%240.05%2Fmonth;8%2B+public+cloud+%26+DevOps+projects+shipped+end-to-end;Fast+learner+%E2%80%94+thrives+in+fast-paced%2C+Agile+teams" alt="career highlights typing"/>
+</p>
 
 ---
 
-### 🧠 Skill Matrix
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:203A43,100:2C5364&height=90&section=header&text=Skill%20Matrix&fontSize=30&fontColor=ffffff&animation=twinkling&fontAlignY=60" width="100%"/>
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,kubernetes,docker,terraform,githubactions,jenkins,prometheus,grafana,python,go,linux,bash,git,vscode&theme=dark&perline=7" alt="skill icons"/>
+</p>
 
 <table align="center">
 <tr>
@@ -206,7 +216,9 @@ Multi-service e-commerce app fully containerized for portability.
 
 ---
 
-### 🧭 About Me
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:203A43,100:2C5364&height=90&section=header&text=About%20Me&fontSize=30&fontColor=ffffff&animation=twinkling&fontAlignY=60" width="100%"/>
+</p>
 
 <table align="center">
 <tr><td>🎓</td><td><b>Education</b></td><td>B.E. Electronics and Communication Engineering — Dhanalakshmi College of Engineering, Chennai (2021 – 2025) · CGPA 7.66</td></tr>
@@ -218,17 +230,29 @@ Multi-service e-commerce app fully containerized for portability.
 
 ---
 
-### 🎓 Certifications
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:203A43,100:2C5364&height=90&section=header&text=Certifications&fontSize=30&fontColor=ffffff&animation=twinkling&fontAlignY=60" width="100%"/>
+</p>
 
-✅ Oracle Cloud Infrastructure (OCI) Foundations Certified (2025) &nbsp;|&nbsp; ✅ AWS Training &nbsp;|&nbsp; ✅ Linux Training &nbsp;|&nbsp; ✅ DevOps Training &nbsp;|&nbsp; ✅ CCNA Training
+<p align="center">
+  <img src="https://img.shields.io/badge/Oracle%20Cloud%20Infrastructure%20(OCI)%20Foundations%20(2025)-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/AWS%20Training-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux%20Training-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/DevOps%20Training-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CCNA%20Training-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
+</p>
 
 ---
 
-### 📫 Open to Opportunities
-
-I'm actively looking for **Cloud Engineer / DevOps Engineer / Site Reliability Engineer** roles. If your team is hiring freshers, I'd love to connect.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2200&pause=900&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=60&lines=Open+to+Cloud+Engineer+%2F+DevOps+%2F+SRE+roles;Let's+build+something+in+production+together+%F0%9F%9A%80" alt="open to opportunities typing"/>
+</p>
 
 <p align="center">
   <a href="https://linkedin.com/in/tharunkumaran11"><img src="https://img.shields.io/badge/Connect_on-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="mailto:tharunkumaranm@outlook.com"><img src="https://img.shields.io/badge/Email-Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=150&section=footer" width="100%"/>
